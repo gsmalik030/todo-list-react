@@ -1,4 +1,3 @@
-import './App.css';
 import React, { useState, useEffect } from 'react';
 import Header from './components/header';
 import Todos from './components/todos';
